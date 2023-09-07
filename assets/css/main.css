@@ -3422,9 +3422,9 @@ input, select, textarea {
 			z-index: 1;
 		}
 
-		#banner h1 {
+		#banner h1 {   
 			font-size: 3.25em;
-			color:#7346dd
+			color:#1c3c44   /*TONG室內與作品網站標題顏色設定*/
 
 		}   
 
@@ -3554,7 +3554,7 @@ input, select, textarea {
 			}
 
 				#banner h1 {
-					font-size: 1.5em;
+					font-size: 1.5em;   /*Tong室內設計與作品網站標題大小*/
 				}
 
 				#banner > .inner .content {
@@ -3585,7 +3585,7 @@ input, select, textarea {
 				}
 
 				#banner.major {
-					padding: 8em 0 4em 0 ;
+					padding: 8em 0 4em 0 ;    /*Tong室內設計與作品網站背景框尺寸大小*/
 				}
 
 		}
